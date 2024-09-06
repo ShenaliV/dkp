@@ -8,9 +8,9 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "icon/lowres.png",
+      "src": "img/teddy2.jpg",
       "sizes": "64x64",
-      "type": "image/png"
+      "type": "image/jpg"
     }
   ]
 }
